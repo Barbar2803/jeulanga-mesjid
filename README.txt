@@ -9,7 +9,6 @@ Menu:
 6. APBG & Regulasi
 
 Dihapus:
-- Galeri
 - Kontak
 - Profil/nama Keuchik
 
