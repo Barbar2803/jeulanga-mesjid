@@ -1,0 +1,17 @@
+<title>Peta Administrasi & Infografis Jeulanga Mesjid, Pidie Jaya</title>
+<meta name="description" content="Peta administrasi dan infografis wilayah Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh, termasuk batas wilayah gampong.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://barbar2803.github.io/jeulanga-mesjid/infografis.html">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="id_ID">
+<meta property="og:site_name" content="Gampong Jeulanga Mesjid">
+<meta property="og:title" content="Peta Administrasi & Infografis Jeulanga Mesjid, Pidie Jaya">
+<meta property="og:description" content="Peta administrasi dan infografis wilayah Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh, termasuk batas wilayah gampong.">
+<meta property="og:url" content="https://barbar2803.github.io/jeulanga-mesjid/infografis.html">
+<meta property="og:image" content="https://barbar2803.github.io/jeulanga-mesjid/images/logo-pidie-jaya.png">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Peta Administrasi & Infografis Jeulanga Mesjid, Pidie Jaya">
+<meta name="twitter:description" content="Peta administrasi dan infografis wilayah Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh, termasuk batas wilayah gampong.">
+<meta name="twitter:image" content="https://barbar2803.github.io/jeulanga-mesjid/images/logo-pidie-jaya.png">

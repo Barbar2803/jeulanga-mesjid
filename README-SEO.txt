@@ -1,0 +1,1 @@
+Optimasi SEO website Jeulanga Mesjid. Ganti/upload 6 HTML ini, robots.txt, dan sitemap.xml. Jangan hapus css/style.css, images/, atau dokumen/. Desain dan isi body dipertahankan; optimasi dilakukan pada metadata/head.

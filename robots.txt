@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barbar2803.github.io/jeulanga-mesjid/sitemap.xml

@@ -1,0 +1,17 @@
+<title>Gampong Jeulanga Mesjid, Bandar Dua, Pidie Jaya</title>
+<meta name="description" content="Website informasi Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh. Informasi profil, kependudukan, peta wilayah, pembangunan, APBG, dan regulasi.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://barbar2803.github.io/jeulanga-mesjid/">
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="id_ID">
+<meta property="og:site_name" content="Gampong Jeulanga Mesjid">
+<meta property="og:title" content="Gampong Jeulanga Mesjid, Bandar Dua, Pidie Jaya">
+<meta property="og:description" content="Website informasi Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh. Informasi profil, kependudukan, peta wilayah, pembangunan, APBG, dan regulasi.">
+<meta property="og:url" content="https://barbar2803.github.io/jeulanga-mesjid/">
+<meta property="og:image" content="https://barbar2803.github.io/jeulanga-mesjid/images/logo-pidie-jaya.png">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Gampong Jeulanga Mesjid, Bandar Dua, Pidie Jaya">
+<meta name="twitter:description" content="Website informasi Gampong Jeulanga Mesjid, Kecamatan Bandar Dua, Kabupaten Pidie Jaya, Aceh. Informasi profil, kependudukan, peta wilayah, pembangunan, APBG, dan regulasi.">
+<meta name="twitter:image" content="https://barbar2803.github.io/jeulanga-mesjid/images/logo-pidie-jaya.png">
